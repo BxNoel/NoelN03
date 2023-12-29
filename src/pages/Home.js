@@ -7,7 +7,7 @@ function Home() {
   return (
     <div className="home">
       <div className="about"> 
-        <h2>Hello! My name is Noel Negron</h2>
+        <h2>SAKURA IS DUMB UGLY</h2>
         <div className='prompt'>
           <p>I am a current Sophomore at Columbia University, with an interest in software engineering.</p>
           <LinkedInIcon/>

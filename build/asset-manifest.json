@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NoelN03/static/css/main.b11f8ec8.css",
+    "main.js": "/NoelN03/static/js/main.eacd6850.js",
+    "index.html": "/NoelN03/index.html",
+    "main.b11f8ec8.css.map": "/NoelN03/static/css/main.b11f8ec8.css.map",
+    "main.eacd6850.js.map": "/NoelN03/static/js/main.eacd6850.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b11f8ec8.css",
+    "static/js/main.eacd6850.js"
+  ]
+}
