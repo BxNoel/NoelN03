@@ -5,11 +5,12 @@ import EmailIcon from "@material-ui/icons/Email";
 import "../styles/Footer.css";
 
 function Footer() {
+    const handlePageChange = () => { window.location.href="https://github.com/BxNoel" }
 return (
     <div className="footer">
     <div className="socialMedia">
-        <GitHub />
-        <LinkedInIcon />
+        <GitHub onClick={handlePageChange} />
+        <LinkedInIcon onClick={event =>  window.location.href='https://www.linkedin.com/in/noel-negron-n26/'} />
         <EmailIcon />
     </div>
     <p> &copy; Noel Negron Columbia University Class of 2026</p>
