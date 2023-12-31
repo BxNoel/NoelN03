@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/NoelN03/static/css/main.b11f8ec8.css",
-    "main.js": "/NoelN03/static/js/main.535b8797.js",
+    "main.css": "/NoelN03/static/css/main.ac30722f.css",
+    "main.js": "/NoelN03/static/js/main.e39bd06b.js",
+    "static/media/IBM.jpg": "/NoelN03/static/media/IBM.1b63a0b9d8675acf6ab2.jpg",
     "index.html": "/NoelN03/index.html",
-    "main.b11f8ec8.css.map": "/NoelN03/static/css/main.b11f8ec8.css.map",
-    "main.535b8797.js.map": "/NoelN03/static/js/main.535b8797.js.map"
+    "main.ac30722f.css.map": "/NoelN03/static/css/main.ac30722f.css.map",
+    "main.e39bd06b.js.map": "/NoelN03/static/js/main.e39bd06b.js.map"
   },
   "entrypoints": [
-    "static/css/main.b11f8ec8.css",
-    "static/js/main.535b8797.js"
+    "static/css/main.ac30722f.css",
+    "static/js/main.e39bd06b.js"
   ]
 }
